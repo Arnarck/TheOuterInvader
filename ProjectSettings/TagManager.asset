@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ContinuousShot_Powerup
+  - DashSpeedUp_Powerup
+  - Health_Powerup
+  - Player_Shot
+  - Shield_Powerup
+  - Basic_Enemy
+  - Basic_Enemy_Shot
+  - Faster_Enemy
+  - Faster_Enemy_Shot
+  - Stronger_Enemy
+  - Stronger_Enemy_Shot
+  - Enemy_Shot
+  - Boss
+  - Missile
+  - Fuel_Gallon
+  - Explosion
+  - Simple_Explosion
+  - BigBang_Powerup
+  - PenetratingShot_Powerup
+  - BigBangArea
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
